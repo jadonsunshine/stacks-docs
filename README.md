@@ -1,6 +1,10 @@
 [![License](https://img.shields.io/github/license/stacks-network/docs)](./LICENSE)
 
+## Project Overview
 # The Official Stacks Docs
+## Getting Started
+## Contributing
+## License
 
 The Stacks documentation serves as the comprehensive resource for understanding and building on Stacks, a Bitcoin Layer 2 that enables fast, low-cost transactions and full-featured smart contracts secured by Bitcoin. These docs guide three main audiences: developers looking to build apps and deploy smart contracts with tools like Clarity and Stacks.js; operators running nodes, miners, and signers to support network infrastructure; and learners seeking to understand how Stacks activates the Bitcoin economy through its unique technical architecture. With sections covering everything from beginner quickstarts to advanced technical references, the docs aim to empower the global builder community to create a Bitcoin-native onchain economy.
 
