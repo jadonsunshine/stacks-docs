@@ -1,6 +1,8 @@
 [![License](https://img.shields.io/github/license/stacks-network/docs)](./LICENSE)
 
 ## Project Overview
+### What is This?
+## Getting Started
 # The Official Stacks Docs
 ## Getting Started
 ## Contributing
